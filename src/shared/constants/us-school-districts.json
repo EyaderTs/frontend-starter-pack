@@ -1,0 +1,308 @@
+[
+  {
+    "id": "nyc-doe",
+    "name": "New York City Department of Education",
+    "state": "NY",
+    "city": "New York"
+  },
+  {
+    "id": "lausd",
+    "name": "Los Angeles Unified School District",
+    "state": "CA",
+    "city": "Los Angeles"
+  },
+  {
+    "id": "cps-chicago",
+    "name": "Chicago Public Schools",
+    "state": "IL",
+    "city": "Chicago"
+  },
+  {
+    "id": "broward-county",
+    "name": "Broward County Public Schools",
+    "state": "FL",
+    "city": "Fort Lauderdale"
+  },
+  {
+    "id": "clark-county",
+    "name": "Clark County School District",
+    "state": "NV",
+    "city": "Las Vegas"
+  },
+  {
+    "id": "miami-dade",
+    "name": "Miami-Dade County Public Schools",
+    "state": "FL",
+    "city": "Miami"
+  },
+  {
+    "id": "wake-county",
+    "name": "Wake County Public School System",
+    "state": "NC",
+    "city": "Raleigh"
+  },
+  {
+    "id": "fairfax-county",
+    "name": "Fairfax County Public Schools",
+    "state": "VA",
+    "city": "Fairfax"
+  },
+  {
+    "id": "gwinnett-county",
+    "name": "Gwinnett County Public Schools",
+    "state": "GA",
+    "city": "Lawrenceville"
+  },
+  {
+    "id": "cypress-fairbanks",
+    "name": "Cypress-Fairbanks Independent School District",
+    "state": "TX",
+    "city": "Houston"
+  },
+  {
+    "id": "montgomery-county-md",
+    "name": "Montgomery County Public Schools",
+    "state": "MD",
+    "city": "Rockville"
+  },
+  {
+    "id": "charlotte-mecklenburg",
+    "name": "Charlotte-Mecklenburg Schools",
+    "state": "NC",
+    "city": "Charlotte"
+  },
+  {
+    "id": "san-diego-unified",
+    "name": "San Diego Unified School District",
+    "state": "CA",
+    "city": "San Diego"
+  },
+  {
+    "id": "pinellas-county",
+    "name": "Pinellas County Schools",
+    "state": "FL",
+    "city": "Largo"
+  },
+  {
+    "id": "prince-georges",
+    "name": "Prince George's County Public Schools",
+    "state": "MD",
+    "city": "Upper Marlboro"
+  },
+  {
+    "id": "boston-public",
+    "name": "Boston Public Schools",
+    "state": "MA",
+    "city": "Boston"
+  },
+  {
+    "id": "jefferson-county-ky",
+    "name": "Jefferson County Public Schools",
+    "state": "KY",
+    "city": "Louisville"
+  },
+  {
+    "id": "philadelphia-district",
+    "name": "School District of Philadelphia",
+    "state": "PA",
+    "city": "Philadelphia"
+  },
+  {
+    "id": "denver-public",
+    "name": "Denver Public Schools",
+    "state": "CO",
+    "city": "Denver"
+  },
+  {
+    "id": "seattle-public",
+    "name": "Seattle Public Schools",
+    "state": "WA",
+    "city": "Seattle"
+  },
+  {
+    "id": "austin-isd",
+    "name": "Austin Independent School District",
+    "state": "TX",
+    "city": "Austin"
+  },
+  {
+    "id": "baltimore-city",
+    "name": "Baltimore City Public Schools",
+    "state": "MD",
+    "city": "Baltimore"
+  },
+  {
+    "id": "atlanta-public",
+    "name": "Atlanta Public Schools",
+    "state": "GA",
+    "city": "Atlanta"
+  },
+  {
+    "id": "detroit-public",
+    "name": "Detroit Public Schools",
+    "state": "MI",
+    "city": "Detroit"
+  },
+  {
+    "id": "columbus-city",
+    "name": "Columbus City Schools",
+    "state": "OH",
+    "city": "Columbus"
+  },
+  {
+    "id": "portland-public",
+    "name": "Portland Public Schools",
+    "state": "OR",
+    "city": "Portland"
+  },
+  {
+    "id": "memphis-shelby",
+    "name": "Memphis-Shelby County Schools",
+    "state": "TN",
+    "city": "Memphis"
+  },
+  {
+    "id": "milwaukee-public",
+    "name": "Milwaukee Public Schools",
+    "state": "WI",
+    "city": "Milwaukee"
+  },
+  {
+    "id": "nashville-davidson",
+    "name": "Metro Nashville Public Schools",
+    "state": "TN",
+    "city": "Nashville"
+  },
+  {
+    "id": "albuquerque-public",
+    "name": "Albuquerque Public Schools",
+    "state": "NM",
+    "city": "Albuquerque"
+  },
+  {
+    "id": "fresno-unified",
+    "name": "Fresno Unified School District",
+    "state": "CA",
+    "city": "Fresno"
+  },
+  {
+    "id": "tucson-unified",
+    "name": "Tucson Unified School District",
+    "state": "AZ",
+    "city": "Tucson"
+  },
+  {
+    "id": "sacramento-city",
+    "name": "Sacramento City Unified School District",
+    "state": "CA",
+    "city": "Sacramento"
+  },
+  {
+    "id": "kansas-city-missouri",
+    "name": "Kansas City Public Schools",
+    "state": "MO",
+    "city": "Kansas City"
+  },
+  {
+    "id": "mesa-public",
+    "name": "Mesa Public Schools",
+    "state": "AZ",
+    "city": "Mesa"
+  },
+  {
+    "id": "virginia-beach",
+    "name": "Virginia Beach City Public Schools",
+    "state": "VA",
+    "city": "Virginia Beach"
+  },
+  {
+    "id": "omaha-public",
+    "name": "Omaha Public Schools",
+    "state": "NE",
+    "city": "Omaha"
+  },
+  {
+    "id": "oakland-unified",
+    "name": "Oakland Unified School District",
+    "state": "CA",
+    "city": "Oakland"
+  },
+  {
+    "id": "minneapolis-public",
+    "name": "Minneapolis Public Schools",
+    "state": "MN",
+    "city": "Minneapolis"
+  },
+  {
+    "id": "tulsa-public",
+    "name": "Tulsa Public Schools",
+    "state": "OK",
+    "city": "Tulsa"
+  },
+  {
+    "id": "arlington-public",
+    "name": "Arlington Public Schools",
+    "state": "VA",
+    "city": "Arlington"
+  },
+  {
+    "id": "wichita-public",
+    "name": "Wichita Public Schools",
+    "state": "KS",
+    "city": "Wichita"
+  },
+  {
+    "id": "new-orleans-public",
+    "name": "New Orleans Public Schools",
+    "state": "LA",
+    "city": "New Orleans"
+  },
+  {
+    "id": "cleveland-municipal",
+    "name": "Cleveland Municipal School District",
+    "state": "OH",
+    "city": "Cleveland"
+  },
+  {
+    "id": "long-beach-unified",
+    "name": "Long Beach Unified School District",
+    "state": "CA",
+    "city": "Long Beach"
+  },
+  {
+    "id": "reno-county",
+    "name": "Washoe County School District",
+    "state": "NV",
+    "city": "Reno"
+  },
+  {
+    "id": "colorado-springs",
+    "name": "Colorado Springs School District 11",
+    "state": "CO",
+    "city": "Colorado Springs"
+  },
+  {
+    "id": "st-paul-public",
+    "name": "Saint Paul Public Schools",
+    "state": "MN",
+    "city": "Saint Paul"
+  },
+  {
+    "id": "buffalo-public",
+    "name": "Buffalo Public Schools",
+    "state": "NY",
+    "city": "Buffalo"
+  },
+  {
+    "id": "rochester-city",
+    "name": "Rochester City School District",
+    "state": "NY",
+    "city": "Rochester"
+  },
+  {
+    "id": "anchorage-school",
+    "name": "Anchorage School District",
+    "state": "AK",
+    "city": "Anchorage"
+  }
+] 
